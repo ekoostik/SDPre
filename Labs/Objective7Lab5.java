@@ -21,6 +21,7 @@ public class Objective7Lab5 {
         System.out.println(" Apple, Banana, Coconut"); 
       }
       else {
+        System.out.println("Goodbye");
         break;
       }
     }
